@@ -1,2 +1,2 @@
-# Blog
-Backup blog
+# blog
+Backup my blog.
